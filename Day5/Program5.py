@@ -1,5 +1,3 @@
-import numpy as np
-
 def sort_list(list1,num1):
     c=0
     for x in range(num1):
